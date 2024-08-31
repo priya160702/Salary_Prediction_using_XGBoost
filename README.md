@@ -2,6 +2,8 @@
 
 Libraries Used: Pandas, Numpy, Seaborn, Matplotlib, SKlearn.
 
+Link to the dataset: https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction
+
 The project involved predicting the salaries of fresh graduates with degrees like B.Tech, M.Tech, and MCA, based on their specialization and MCAT scores, which include sections on English, Logical Reasoning, and Quantitative Aptitude.
 
 
